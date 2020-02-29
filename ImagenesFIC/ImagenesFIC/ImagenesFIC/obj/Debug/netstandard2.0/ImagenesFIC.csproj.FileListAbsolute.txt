@@ -1,0 +1,13 @@
+C:\Users\artur\source\repos\ImagenesFIC\ImagenesFIC\ImagenesFIC\bin\Debug\netstandard2.0\ImagenesFIC.deps.json
+C:\Users\artur\source\repos\ImagenesFIC\ImagenesFIC\ImagenesFIC\bin\Debug\netstandard2.0\ImagenesFIC.dll
+C:\Users\artur\source\repos\ImagenesFIC\ImagenesFIC\ImagenesFIC\obj\Debug\netstandard2.0\ImagenesFIC.csprojAssemblyReference.cache
+C:\Users\artur\source\repos\ImagenesFIC\ImagenesFIC\ImagenesFIC\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\artur\source\repos\ImagenesFIC\ImagenesFIC\ImagenesFIC\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\artur\source\repos\ImagenesFIC\ImagenesFIC\ImagenesFIC\obj\Debug\netstandard2.0\ImagenesFIC.AssemblyInfoInputs.cache
+C:\Users\artur\source\repos\ImagenesFIC\ImagenesFIC\ImagenesFIC\obj\Debug\netstandard2.0\ImagenesFIC.AssemblyInfo.cs
+C:\Users\artur\source\repos\ImagenesFIC\ImagenesFIC\ImagenesFIC\bin\Debug\netstandard2.0\ref\ImagenesFIC.dll
+C:\Users\artur\source\repos\ImagenesFIC\ImagenesFIC\ImagenesFIC\bin\Debug\netstandard2.0\ImagenesFIC.pdb
+C:\Users\artur\source\repos\ImagenesFIC\ImagenesFIC\ImagenesFIC\obj\Debug\netstandard2.0\ImagenesFIC.dll
+C:\Users\artur\source\repos\ImagenesFIC\ImagenesFIC\ImagenesFIC\obj\Debug\netstandard2.0\ref\ImagenesFIC.dll
+C:\Users\artur\source\repos\ImagenesFIC\ImagenesFIC\ImagenesFIC\obj\Debug\netstandard2.0\ImagenesFIC.pdb
+C:\Users\artur\source\repos\ImagenesFIC\ImagenesFIC\ImagenesFIC\obj\Debug\netstandard2.0\XamlC.stamp
